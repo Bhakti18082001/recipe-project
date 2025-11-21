@@ -77,13 +77,6 @@ This project collects, processes, and analyzes recipe data from Firestore to gen
           │ Visuals & Insights │
           └────────────────────┘
 
-git clone https://github.com/Bhakti18082001/recipe-project.git
-cd recipe-project
-
-. Clone the Repository
-git clone https://github.com/Bhakti18082001/recipe-project.git
-cd recipe-project
-
 2. Install Dependencies
 pip install -r requirements.txt
 
@@ -169,3 +162,4 @@ Interactive charts
 Advanced ML-based recommendations
 
 BigQuery warehouse integration
+
