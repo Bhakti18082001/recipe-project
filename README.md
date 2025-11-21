@@ -93,7 +93,7 @@ Export charts (PNG) for reporting.
 
 Identifies which recipe has the highest views.
 
-**Shows popularity of categories (veg, non-veg, dessert, etc.).**
+#### **Shows popularity of categories (veg, non-veg, dessert, etc.).**
 
 📈 Recipe Growth Trend
 
@@ -110,7 +110,7 @@ Anyone with the service key can update Firestore.
 
 🖐 Manual ETL Execution
 
-You must manually run:
+## ** You must manually run:**
 
 python analytics.py
 
@@ -157,7 +157,7 @@ recipe-project/
 │── .gitignore
 
 
-Project Evaluation Summary
+## ** Project Evaluation Summary**
 
 This document provides a structured summary of the evaluation areas for the Recipe Analytics ETL Project. It highlights the completeness, accuracy, and quality of the solution based on the given deliverables.
 
