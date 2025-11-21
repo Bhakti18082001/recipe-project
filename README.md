@@ -1,171 +1,138 @@
-# Recipe Analytics Pipeline
-recipe-project/
-│
-├── main.py                   # ETL Pipeline
-├── analytics.py              # Charts & insights
-├── serviceAccountKey.json    # Firebase key (not uploaded to GitHub)
-├── requirements.txt          # Dependencies
-├── README.md                 # Documentation
-├── data/
-│   ├── cleaned_output.csv    # Processed data (after ETL)
-│   └── raw_export.json       # Raw extracted data
-└── visuals/
-    └── most_viewed_chart.png # Saved chart output
+1. Data Model Explanation
+Firestore Collections
+1. recipes Collection
 
-## 1. Project Overview
-This project collects, processes, and analyzes recipe data from Firestore to generate actionable insights. It includes an ETL pipeline and visualization scripts.
+Each document represents one recipe.
 
----
+Field	Type	Description
+name	string	Name of the recipe
+ingredients	array(string)	List of ingredients
+steps	array(string)	Cooking steps
+category	string	Category (veg, non-veg, dessert, etc.)
+views	number	Count of how many times recipe is viewed
+createdAt	timestamp	Auto timestamp
+2. analytics Collection
 
-## 2. Data Model
-- **Recipes Collection**  
-  - `recipeId` (string): Unique ID  
-  - `name` (string): Recipe name  
-  - `category` (string): Cuisine/type  
-  - `ingredients` (array): List of ingredients  
-  - `views` (number): Number of views  
-  - `createdAt` (timestamp): Recipe creation date  
+Aggregated insights stored daily.
 
-- **Users Collection**  
-  - `userId` (string): Unique ID  
-  - `name` (string)  
-  - `email` (string)  
-  - `favorites` (array): Favorite recipe IDs  
-
-- **Interactions Collection**  
-  - `interactionId` (string)  
-  - `userId` (string)  
-  - `recipeId` (string)  
-  - `action` (string): view, like, share  
-  - `timestamp` (timestamp)  
-
----
-
-## 3. Running the Pipeline
-1. Clone the repository:  
-   ```bash
-   git clone <repo_url>
-   cd recipe-project
-
-
-          ┌────────────────────┐
-          │     Firestore       │
-          │  (Recipes, Users,   │
-          │   Interactions)     │
-          └─────────┬──────────┘
-                    │ Extract
-                    ▼
-          ┌────────────────────┐
-          │      Python         │
-          │  (main.py - ETL)    │
-          └─────────┬──────────┘
-                    │ Transform
-                    ▼
-          ┌────────────────────┐
-          │    Processed Data   │
-          │  (CSV / JSON Files) │
-          └─────────┬──────────┘
-                    │ Analyze
-                    ▼
-          ┌────────────────────┐
-          │   analytics.py      │
-          │ Data Visualization  │
-          └─────────┬──────────┘
-                    │ Output
-                    ▼
-          ┌────────────────────┐
-          │ Visuals & Insights │
-          └────────────────────┘
-
-git clone https://github.com/Bhakti18082001/recipe-project.git
-cd recipe-project
-
-. Clone the Repository
-git clone https://github.com/Bhakti18082001/recipe-project.git
-cd recipe-project
-
-2. Install Dependencies
-pip install -r requirements.txt
-
-3. Add Firebase Credentials
-
-Place your serviceAccountKey.json file in the project root.
-
-4. Run ETL Pipeline
-python main.py
-
-5. Run Analytics Visualization
-python analytics.py
-
-📊 ETL Process Overview
-🔹 Extract
-
-Pulls Recipes, Users, Interactions from Firestore using Firebase Admin SDK.
-
-🔹 Transform
-
-Data cleaning
-
-Removing null/invalid entries
-
-Aggregating views
-
-Normalizing categories
-
-Preparing analysis-ready format
-
-🔹 Load
-
-Saves cleaned data into /data/cleaned_output.csv
-
-Optionally export to BigQuery
-
-📈 Insights Generated
-
-Most Viewed Recipes
-
-Top Categories
-
-User Engagement Patterns
-
-Recipe Popularity Trends
-
-Daily / Monthly View Patterns
-
-Visual charts are saved inside visuals/.
-
-⚠️ Limitations
-
-Service account key is not committed for security
-
-Visualizations are basic (only top views for now)
-
-No real-time dashboard
-
-Large Firestore datasets may increase read costs
-
-Cloud Functions not implemented yet
-
-📌 Dependencies
+Field	Type	Description
+topRecipe	string	Most viewed recipe
+totalRecipes	number	Total number of recipes
+categoryDistribution	map	Recipe count by category
+generatedAt	timestamp	ETL run timestamp
+2. Instructions for Running the Pipeline
+Prerequisites
 
 Python 3+
 
-firebase-admin
+Firebase Admin SDK
 
-pandas
+Valid Firestore serviceAccountKey.json
 
-numpy
+Install Dependencies
+pip install firebase-admin
+pip install matplotlib
 
-matplotlib
+Run Main App
+python main.py
 
-plotly
+Run Analytics ETL
+python analytics.py
 
-🌟 Future Enhancements
+3. ETL Process Overview
 
-Real-time dashboard (Streamlit / Firebase hosting)
+Your ETL is a simple Extract → Transform → Load pipeline.
 
-Interactive charts
+Extract
 
-Advanced ML-based recommendations
+Read all documents from recipes collection.
 
-BigQuery warehouse integration
+Fetch fields: name, category, views, etc.
+
+Transform
+
+Calculate:
+
+Most viewed recipe
+
+Total recipes
+
+Recipes per category
+
+Clean + structure the data
+
+Prepare visual charts (bar chart for most-viewed recipe)
+
+Load
+
+Store aggregated results into analytics collection.
+
+Save visualization images locally (optional).
+
+4. Insights Summary
+
+After running the analytics pipeline, you get:
+
+Top Recipe
+
+The recipe with the highest views.
+
+Category Distribution
+
+How many recipes per category.
+
+Helps understand what type of recipes users prefer.
+
+Growth Trend
+
+Total number of recipes over time.
+
+Useful for dashboards.
+
+Most Viewed Chart
+
+Generated as a bar chart (.png) for reporting.
+
+5. Known Constraints / Limitations
+1. No Authentication Layer
+
+Anyone with service key can modify Firestore.
+
+2. ETL is Manual
+
+You must run:
+
+python analytics.py
+
+
+No automatic scheduler yet.
+
+3. serviceAccountKey.json Must Be Local
+
+The Firebase SDK requires a local JSON file (kept hidden via .gitignore).
+
+4. Performance Limits
+
+Firestore read cost increases with large data.
+
+Analytics script reads whole collection — no pagination.
+
+5. Limited Visualizations
+
+Only one chart (most-viewed) is generated currently.
+
+6. Minimal Error Handling
+
+Failures in Firestore or missing fields may break the script.
+
+Future Enhancements
+
+Add Cloud Scheduler to automate ETL daily
+
+Add Flask/Streamlit dashboard UI
+
+Add Firestore security rules
+
+Add user authentication
+
+Improve visual reports (Plotly, filters, etc.)
