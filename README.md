@@ -12,30 +12,63 @@ A Python-based backend project for storing, analyzing, and visualizing recipe da
 
 ### **1. `recipes` Collection**
 
+## Firestore Data Model
+
+### 1. recipes Collection
 Each document stores one recipe.
 
-| **Field** | **Type** | **Description** |
-|----------|----------|----------------|
-| `name` | string | Name of the recipe |
-| `ingredients` | array(string) | List of ingredients |
-| `steps` | array(string) | Cooking steps |
-| `category` | string | Category (veg, non-veg, dessert, etc.) |
-| `views` | number | Total views (popularity metric) |
-| `createdAt` | timestamp | Auto-generated timestamp |
+| Field       | Type          | Description                                  |
+|------------|---------------|----------------------------------------------|
+| name       | string        | Name of the recipe                           |
+| ingredients| array(string) | List of ingredients                           |
+| steps      | array(string) | Cooking steps                                 |
+| category   | string        | Recipe category (veg, non-veg, dessert, etc.)|
+| views      | number        | Total views (popularity metric)             |
+| createdAt  | timestamp     | Auto-generated timestamp                     |
+
+**Highlights:**  
+- Tracks recipe popularity via views.  
+- Stores structured steps and ingredients for analytics.  
+- Enables category-based filtering for dashboards.
 
 ---
 
-### **2. `analytics` Collection**
+### 2. users Collection
+Each document stores one user.
 
-Stores aggregated insights.
+| Field            | Type           | Description                                  |
+|-----------------|----------------|----------------------------------------------|
+| name             | string         | User’s full name                             |
+| email            | string         | User email address                            |
+| createdAt        | timestamp      | Auto-generated timestamp                     |
+| preferences      | array(string)  | Optional: User dietary preferences          |
+| totalInteractions| number         | Total actions by user (likes, comments, views)|
 
-| **Field** | **Type** | **Description** |
-|----------|----------|----------------|
-| `topRecipe` | string | Most viewed recipe name |
-| `totalRecipes` | number | Total recipe count |
-| `categoryDistribution` | map | Count per category |
-| `generatedAt` | timestamp | ETL run timestamp |
+**Highlights:**  
+- Helps analyze user engagement and activity patterns.  
+- Enables personalized recommendations based on preferences.  
+- Supports tracking of total interactions per user for reporting.
 
+---
+
+### 3. interactions Collection
+Each document stores one user interaction with a recipe.
+
+| Field       | Type   | Description                                 |
+|------------|--------|---------------------------------------------|
+| userId     | string | Reference to `users` document               |
+| recipeId   | string | Reference to `recipes` document             |
+| type       | string | Type of interaction (`view`, `like`, `comment`) |
+| comment    | string | Optional: User comment text                 |
+| createdAt  | timestamp | Timestamp of the interaction             |
+
+**Highlights:**  
+- Captures all user actions for detailed analytics.  
+- Enables calculation of metrics like most-liked recipes, engagement per recipe, and view-to-like ratios.  
+- Supports correlation analysis between interactions and recipe characteristics.
+
+
+--
 ---
 **Folder Structure**
 recipe-project/
@@ -299,6 +332,7 @@ Demonstrates strong ETL design, clear documentation, meaningful insights, and go
 
 Bhakti Dighe
 Recipe Analytics Project — Firebase + Python
+
 
 
 
