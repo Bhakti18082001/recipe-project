@@ -1,0 +1,2042 @@
+[
+    {
+        "views": 13,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_salad_bowl",
+        "interactionId": "2scuA4kGCYYOgcjDc9fy",
+        "rating": 4,
+        "likes": 12,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_veg_pulao",
+        "interactionId": "3DfuCrGkcERRrPry3FFf",
+        "rating": 4,
+        "likes": 15,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_veg_wrap",
+        "interactionId": "42c96XH539ADRtRZsn2B",
+        "rating": 5,
+        "likes": 12,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 8,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_smoothie",
+        "interactionId": "4BR4eSyqwjC1EqxTWcKm",
+        "rating": 3,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 16,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_veg_maggi",
+        "interactionId": "4Dt8eUb558IujFxPVTGU",
+        "rating": 5,
+        "likes": 11,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_smoothie",
+        "interactionId": "5oHnvpcXWvfuXyUApvkh",
+        "rating": 3,
+        "likes": 8,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 11,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_garlic_bread",
+        "interactionId": "6ppV5dsLjjyP7y7wawMw",
+        "rating": 4,
+        "likes": 11,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 6,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_chicken_curry",
+        "interactionId": "6reZgqVaJ1QPLuWr2ATG",
+        "rating": 3,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 11,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_paneer_butter_masala",
+        "interactionId": "7kO7HU7pBNpLbrgrlYAR",
+        "rating": 4,
+        "likes": 4,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 7,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_tomato_soup",
+        "interactionId": "8Ox9qhhlmj6blstHYE2N",
+        "rating": 4,
+        "likes": 1,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 6,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_veg_maggi",
+        "interactionId": "8yBgJNiqdp29mGHhtJky",
+        "rating": 4,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_salad_bowl",
+        "interactionId": "9aDAeU6dAVhviqLdTp41",
+        "rating": 3,
+        "likes": 7,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 9,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_masala_omelette",
+        "interactionId": "BMER9Qhax5MLJa2PHgsr",
+        "rating": 3,
+        "likes": 4,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 11,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_tomato_soup",
+        "interactionId": "BgX5xNfHjbbVNohKjHcn",
+        "rating": 4,
+        "likes": 8,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 8,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_fried_rice",
+        "interactionId": "CW2fZN3cjCutN7uryKqP",
+        "rating": 5,
+        "likes": 4,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 5,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_veg_maggi",
+        "interactionId": "CfnFSp9mQyxOvbNiVM2v",
+        "rating": 5,
+        "likes": 4,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 19,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_choco_brownie",
+        "interactionId": "E7ULAbYo8KoGmtocwx7P",
+        "rating": 3,
+        "likes": 18,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 18,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_dal_tadka",
+        "interactionId": "EFu2LjHHdXxEwPyfHTDx",
+        "rating": 4,
+        "likes": 5,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 20,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_chicken_curry",
+        "interactionId": "EhDdBQ5Z64xmIklQxTTk",
+        "rating": 3,
+        "likes": 12,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 13,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_masala_omelette",
+        "interactionId": "En3oEGkVf8ersgf034C7",
+        "rating": 5,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_choco_brownie",
+        "interactionId": "F2LfkywFeOE7Zyz1wV6r",
+        "rating": 3,
+        "likes": 8,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 9,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_tomato_soup",
+        "interactionId": "G8HEOfwGeu9WFRXCDhS6",
+        "rating": 3,
+        "likes": 8,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_adi",
+        "recipeId": "recipe_dal_tadka",
+        "interactionId": "GWMDUi0loJNWkx6ri2vg",
+        "rating": 4,
+        "likes": 1,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 20,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_lemon_rice",
+        "interactionId": "H1bm0ctVKhgqemJ1yyAv",
+        "rating": 3,
+        "likes": 12,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 19,
+        "userId": "user_adi",
+        "recipeId": "recipe_tomato_soup",
+        "interactionId": "HnFc2JKD3ihzEgK5ep8q",
+        "rating": 5,
+        "likes": 11,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 18,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_salad_bowl",
+        "interactionId": "HpN68aWquBW4kfw1S4T9",
+        "rating": 5,
+        "likes": 10,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 16,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_veg_wrap",
+        "interactionId": "HzkhFRvKXsEz82UNv9Af",
+        "rating": 5,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 12,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_grilled_sandwich",
+        "interactionId": "JOIEORLfKYZO0HKpCVlc",
+        "rating": 4,
+        "likes": 8,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 16,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_lemon_rice",
+        "interactionId": "JVhjGtzQa40szSS7J6WY",
+        "rating": 4,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 20,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_garlic_bread",
+        "interactionId": "KDGgdgYBVt4TTfhXp2Hl",
+        "rating": 4,
+        "likes": 15,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 18,
+        "userId": "user_adi",
+        "recipeId": "recipe_lemon_rice",
+        "interactionId": "MRbrBJAvDQJ5yPIMQK4h",
+        "rating": 4,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 13,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_salad_bowl",
+        "interactionId": "NcfhpXUYnz2Q4SzG5jpR",
+        "rating": 4,
+        "likes": 11,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 20,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_smoothie",
+        "interactionId": "NwdhM9k3XEo3h1B6NPjb",
+        "rating": 4,
+        "likes": 11,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 19,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_garlic_bread",
+        "interactionId": "OQARFIhXwlgxOUSdmwdt",
+        "rating": 4,
+        "likes": 14,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 9,
+        "userId": "user_adi",
+        "recipeId": "recipe_chicken_curry",
+        "interactionId": "POI4fjRbnWhxDNYOh8Xl",
+        "rating": 5,
+        "likes": 7,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 10,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_pancakes",
+        "interactionId": "PizR9NcN2rFJYuWJbhfj",
+        "rating": 4,
+        "likes": 5,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 12,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_tomato_soup",
+        "interactionId": "QDZR79wPOxds8TILMGYO",
+        "rating": 4,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_adi",
+        "recipeId": "recipe_grilled_sandwich",
+        "interactionId": "QQZ5mbzOoDvsB55pppJ3",
+        "rating": 4,
+        "likes": 17,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 9,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_surmai_fry",
+        "interactionId": "Qtyl3SP4x61RjwuBaFbM",
+        "rating": 4,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 5,
+        "userId": "user_adi",
+        "recipeId": "recipe_garlic_bread",
+        "interactionId": "R28GzJ4OnND6vV2dTPWm",
+        "rating": 4,
+        "likes": 5,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 19,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_choco_brownie",
+        "interactionId": "R7HmPtNIPvuqeA88Nms4",
+        "rating": 3,
+        "likes": 14,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 11,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_chicken_curry",
+        "interactionId": "S9uYjXzIWMPM4p1Icvgr",
+        "rating": 4,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 10,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_lemon_rice",
+        "interactionId": "Szh4tkOKfmMCqahBPwGd",
+        "rating": 4,
+        "likes": 9,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 8,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_veg_pulao",
+        "interactionId": "T1euGTABdqeglxOJ3tUD",
+        "rating": 4,
+        "likes": 5,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 6,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_pancakes",
+        "interactionId": "Unlin0uRN3wSDTjWy9cQ",
+        "rating": 5,
+        "likes": 2,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 20,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_smoothie",
+        "interactionId": "UxTS7NEyhRRtRLSTmNq1",
+        "rating": 3,
+        "likes": 18,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 5,
+        "userId": "user_adi",
+        "recipeId": "recipe_choco_brownie",
+        "interactionId": "VL5c3uOTzhWCtPz9pY1W",
+        "rating": 3,
+        "likes": 2,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 8,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_salad_bowl",
+        "interactionId": "VjvLDEEZrGLql2ZLpTPj",
+        "rating": 5,
+        "likes": 8,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 20,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_veg_pulao",
+        "interactionId": "VwXutAiMsvftJdZBtpv5",
+        "rating": 5,
+        "likes": 16,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 11,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_veg_maggi",
+        "interactionId": "W0xavQgi2zWhp1BcQGvK",
+        "rating": 4,
+        "likes": 5,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 7,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_masala_omelette",
+        "interactionId": "W4Pi2YgRPtg5uG2topRn",
+        "rating": 4,
+        "likes": 2,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 5,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_surmai_fry",
+        "interactionId": "XdcROz9H2ZwBMhcwJlGZ",
+        "rating": 4,
+        "likes": 5,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 9,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_pancakes",
+        "interactionId": "YFt5K0fVGmCSIQuYAOcc",
+        "rating": 3,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 7,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_dal_tadka",
+        "interactionId": "YcS2KrfXjCYamrnIV3jg",
+        "rating": 4,
+        "likes": 2,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 18,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_chicken_curry",
+        "interactionId": "ZIgSGRWyNscwGJxB2TfR",
+        "rating": 4,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_dal_tadka",
+        "interactionId": "aLjRk1GBiCSpzEsJj5BN",
+        "rating": 4,
+        "likes": 17,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 7,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_lemon_rice",
+        "interactionId": "bEVYTOyQunymvTFOpvYg",
+        "rating": 3,
+        "likes": 2,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 10,
+        "userId": "user_adi",
+        "recipeId": "recipe_veg_pulao",
+        "interactionId": "bOyXnQq4bZU8kSl7JKTj",
+        "rating": 3,
+        "likes": 7,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_paneer_butter_masala",
+        "interactionId": "bytNOS5n9cUYqqpejNXm",
+        "rating": 3,
+        "likes": 5,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 9,
+        "userId": "user_adi",
+        "recipeId": "recipe_salad_bowl",
+        "interactionId": "d4rdpgbHwaL44A18meTV",
+        "rating": 3,
+        "likes": 4,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 19,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_dal_tadka",
+        "interactionId": "d8VITVnqrIzts0nUMl3M",
+        "rating": 3,
+        "likes": 8,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 7,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_veg_wrap",
+        "interactionId": "dzLeGiJeTu0D6WZ8VWmF",
+        "rating": 3,
+        "likes": 4,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 9,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_chicken_curry",
+        "interactionId": "eVhn2OLN8Met182K9g1q",
+        "rating": 5,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_fried_rice",
+        "interactionId": "fh2nZz7PhN6upEov1nYL",
+        "rating": 5,
+        "likes": 12,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 19,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_fried_rice",
+        "interactionId": "fvhB6Ws4l5YBW3ge6933",
+        "rating": 5,
+        "likes": 5,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 18,
+        "userId": "user_adi",
+        "recipeId": "recipe_pancakes",
+        "interactionId": "gf4sePgJlzzKnOqGW3fa",
+        "rating": 3,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 11,
+        "userId": "user_adi",
+        "recipeId": "recipe_smoothie",
+        "interactionId": "gkAXQxMQoLLueZsBKpRn",
+        "rating": 5,
+        "likes": 10,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_adi",
+        "recipeId": "recipe_veg_maggi",
+        "interactionId": "glzgUuY7UMmVA9yoUAuv",
+        "rating": 3,
+        "likes": 13,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_tomato_soup",
+        "interactionId": "h55h8c7jfHceXjM3vpj0",
+        "rating": 3,
+        "likes": 10,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 14,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_paneer_butter_masala",
+        "interactionId": "hh2Ch91gkhrJmkmkEa75",
+        "rating": 5,
+        "likes": 1,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_veg_wrap",
+        "interactionId": "hyBQZY6Wagu4ohOf05gb",
+        "rating": 3,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 20,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_fried_rice",
+        "interactionId": "hzUHVUwbB7wzIjhKw1IP",
+        "rating": 3,
+        "likes": 13,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 6,
+        "userId": "user_adi",
+        "recipeId": "recipe_masala_omelette",
+        "interactionId": "ilugAjeur0N16UMJJine",
+        "rating": 4,
+        "likes": 1,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 14,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_pancakes",
+        "interactionId": "j2K1sQoVydy7SzXNY7p6",
+        "rating": 5,
+        "likes": 11,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 19,
+        "userId": "user_adi",
+        "recipeId": "recipe_paneer_butter_masala",
+        "interactionId": "jSEMvGn9e5Kn4rJZRcBP",
+        "rating": 5,
+        "likes": 16,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_adi",
+        "recipeId": "recipe_fried_rice",
+        "interactionId": "jSiw7AsOn5PSoC7ynVoJ",
+        "rating": 3,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_veg_pulao",
+        "interactionId": "kTj3NEYggjv26hnxudR6",
+        "rating": 5,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_choco_brownie",
+        "interactionId": "kkw7TB3jHCHAyiWWLqqN",
+        "rating": 4,
+        "likes": 9,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 15,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_surmai_fry",
+        "interactionId": "l9hL8q0pL9g9mWqsEyEq",
+        "rating": 4,
+        "likes": 2,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 14,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_grilled_sandwich",
+        "interactionId": "lOtnRJ2NkOfotUddvgsq",
+        "rating": 4,
+        "likes": 13,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_choco_brownie",
+        "interactionId": "mx239ZLfIrR3er5R5uri",
+        "rating": 3,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 5,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_garlic_bread",
+        "interactionId": "nMTX3sHckXcguExQ6fZw",
+        "rating": 3,
+        "likes": 2,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 11,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_veg_pulao",
+        "interactionId": "o89NcJftWOTM3DwX50ti",
+        "rating": 5,
+        "likes": 9,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 20,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_lemon_rice",
+        "interactionId": "o928SXC9JKrvqTNwYxJm",
+        "rating": 5,
+        "likes": 2,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 18,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_masala_omelette",
+        "interactionId": "oRzYUivXOnT1apB4yi8c",
+        "rating": 4,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 13,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_paneer_butter_masala",
+        "interactionId": "ovrpUeakrFtq3u1nkO9r",
+        "rating": 5,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "interactionId": "recipe_chicken_curry_user_adi",
+        "views": 76,
+        "createdAt": "2025-11-19T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_chicken_curry",
+        "rating": 3,
+        "likes": 26,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_chicken_curry_user_bhakti",
+        "views": 100,
+        "createdAt": "2025-10-25T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_chicken_curry",
+        "rating": 4,
+        "likes": 7,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_chicken_curry_user_chef_1",
+        "views": 36,
+        "createdAt": "2025-11-13T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_chicken_curry",
+        "rating": 4,
+        "likes": 27,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_chicken_curry_user_chef_2",
+        "views": 44,
+        "createdAt": "2025-10-24T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_chicken_curry",
+        "rating": 5,
+        "likes": 40,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_chicken_curry_user_taster_1",
+        "views": 42,
+        "createdAt": "2025-10-23T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_chicken_curry",
+        "rating": 4,
+        "likes": 41,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_chicken_curry_user_taster_2",
+        "views": 49,
+        "createdAt": "2025-10-23T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_chicken_curry",
+        "rating": 5,
+        "likes": 36,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_choco_brownie_user_adi",
+        "views": 18,
+        "createdAt": "2025-10-29T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_choco_brownie",
+        "rating": 5,
+        "likes": 7,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_choco_brownie_user_bhakti",
+        "views": 78,
+        "createdAt": "2025-11-13T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_choco_brownie",
+        "rating": 3,
+        "likes": 44,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_choco_brownie_user_chef_1",
+        "views": 38,
+        "createdAt": "2025-11-14T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_choco_brownie",
+        "rating": 3,
+        "likes": 17,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_choco_brownie_user_chef_2",
+        "views": 18,
+        "createdAt": "2025-11-09T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_choco_brownie",
+        "rating": 3,
+        "likes": 7,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_choco_brownie_user_taster_1",
+        "views": 64,
+        "createdAt": "2025-10-24T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_choco_brownie",
+        "rating": 5,
+        "likes": 17,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_choco_brownie_user_taster_2",
+        "views": 42,
+        "createdAt": "2025-10-28T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_choco_brownie",
+        "rating": 4,
+        "likes": 19,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_dal_tadka_user_adi",
+        "views": 30,
+        "createdAt": "2025-10-28T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_dal_tadka",
+        "rating": 4,
+        "likes": 6,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_dal_tadka_user_bhakti",
+        "views": 46,
+        "createdAt": "2025-11-04T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_dal_tadka",
+        "rating": 5,
+        "likes": 46,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_dal_tadka_user_chef_1",
+        "views": 91,
+        "createdAt": "2025-11-09T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_dal_tadka",
+        "rating": 4,
+        "likes": 83,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_dal_tadka_user_chef_2",
+        "views": 26,
+        "createdAt": "2025-11-09T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_dal_tadka",
+        "rating": 5,
+        "likes": 6,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_dal_tadka_user_taster_1",
+        "views": 88,
+        "createdAt": "2025-11-09T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_dal_tadka",
+        "rating": 4,
+        "likes": 78,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_dal_tadka_user_taster_2",
+        "views": 93,
+        "createdAt": "2025-10-21T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_dal_tadka",
+        "rating": 5,
+        "likes": 64,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_fried_rice_user_adi",
+        "views": 78,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_fried_rice",
+        "rating": 3,
+        "likes": 14,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_fried_rice_user_bhakti",
+        "views": 64,
+        "createdAt": "2025-11-13T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_fried_rice",
+        "rating": 4,
+        "likes": 15,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_fried_rice_user_chef_1",
+        "views": 41,
+        "createdAt": "2025-10-23T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_fried_rice",
+        "rating": 5,
+        "likes": 39,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_fried_rice_user_chef_2",
+        "views": 86,
+        "createdAt": "2025-11-09T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_fried_rice",
+        "rating": 4,
+        "likes": 52,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_fried_rice_user_taster_1",
+        "views": 62,
+        "createdAt": "2025-11-12T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_fried_rice",
+        "rating": 3,
+        "likes": 47,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_fried_rice_user_taster_2",
+        "views": 44,
+        "createdAt": "2025-11-08T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_fried_rice",
+        "rating": 4,
+        "likes": 24,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_garlic_bread_user_adi",
+        "views": 74,
+        "createdAt": "2025-11-12T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_garlic_bread",
+        "rating": 3,
+        "likes": 17,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_garlic_bread_user_bhakti",
+        "views": 82,
+        "createdAt": "2025-10-23T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_garlic_bread",
+        "rating": 4,
+        "likes": 13,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_garlic_bread_user_chef_1",
+        "views": 88,
+        "createdAt": "2025-11-03T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_garlic_bread",
+        "rating": 3,
+        "likes": 88,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_garlic_bread_user_chef_2",
+        "views": 100,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_garlic_bread",
+        "rating": 4,
+        "likes": 49,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_garlic_bread_user_taster_1",
+        "views": 44,
+        "createdAt": "2025-11-16T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_garlic_bread",
+        "rating": 3,
+        "likes": 29,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_garlic_bread_user_taster_2",
+        "views": 48,
+        "createdAt": "2025-11-20T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_garlic_bread",
+        "rating": 5,
+        "likes": 20,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_grilled_sandwich_user_adi",
+        "views": 61,
+        "createdAt": "2025-10-26T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_grilled_sandwich",
+        "rating": 4,
+        "likes": 53,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_grilled_sandwich_user_bhakti",
+        "views": 23,
+        "createdAt": "2025-10-30T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_grilled_sandwich",
+        "rating": 5,
+        "likes": 9,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_grilled_sandwich_user_chef_1",
+        "views": 25,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_grilled_sandwich",
+        "rating": 3,
+        "likes": 23,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_grilled_sandwich_user_chef_2",
+        "views": 38,
+        "createdAt": "2025-11-06T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_grilled_sandwich",
+        "rating": 3,
+        "likes": 24,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_grilled_sandwich_user_taster_1",
+        "views": 66,
+        "createdAt": "2025-11-07T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_grilled_sandwich",
+        "rating": 5,
+        "likes": 51,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_grilled_sandwich_user_taster_2",
+        "views": 37,
+        "createdAt": "2025-11-18T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_grilled_sandwich",
+        "rating": 3,
+        "likes": 5,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_lemon_rice_user_adi",
+        "views": 70,
+        "createdAt": "2025-11-06T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_lemon_rice",
+        "rating": 4,
+        "likes": 5,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_lemon_rice_user_bhakti",
+        "views": 13,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_lemon_rice",
+        "rating": 3,
+        "likes": 6,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_lemon_rice_user_chef_1",
+        "views": 62,
+        "createdAt": "2025-10-22T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_lemon_rice",
+        "rating": 4,
+        "likes": 61,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_lemon_rice_user_chef_2",
+        "views": 42,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_lemon_rice",
+        "rating": 3,
+        "likes": 9,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_lemon_rice_user_taster_1",
+        "views": 88,
+        "createdAt": "2025-10-22T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_lemon_rice",
+        "rating": 3,
+        "likes": 45,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_lemon_rice_user_taster_2",
+        "views": 40,
+        "createdAt": "2025-10-27T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_lemon_rice",
+        "rating": 3,
+        "likes": 22,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_masala_omelette_user_adi",
+        "views": 78,
+        "createdAt": "2025-11-05T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_masala_omelette",
+        "rating": 4,
+        "likes": 60,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_masala_omelette_user_bhakti",
+        "views": 71,
+        "createdAt": "2025-10-28T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_masala_omelette",
+        "rating": 4,
+        "likes": 47,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_masala_omelette_user_chef_1",
+        "views": 53,
+        "createdAt": "2025-10-25T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_masala_omelette",
+        "rating": 3,
+        "likes": 41,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_masala_omelette_user_chef_2",
+        "views": 20,
+        "createdAt": "2025-11-11T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_masala_omelette",
+        "rating": 4,
+        "likes": 12,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_masala_omelette_user_taster_1",
+        "views": 27,
+        "createdAt": "2025-10-23T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_masala_omelette",
+        "rating": 5,
+        "likes": 23,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_masala_omelette_user_taster_2",
+        "views": 44,
+        "createdAt": "2025-11-05T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_masala_omelette",
+        "rating": 4,
+        "likes": 11,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_pancakes_user_adi",
+        "views": 98,
+        "createdAt": "2025-10-23T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_pancakes",
+        "rating": 3,
+        "likes": 59,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_pancakes_user_bhakti",
+        "views": 96,
+        "createdAt": "2025-11-01T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_pancakes",
+        "rating": 4,
+        "likes": 25,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_pancakes_user_chef_1",
+        "views": 46,
+        "createdAt": "2025-11-16T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_pancakes",
+        "rating": 3,
+        "likes": 44,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_pancakes_user_chef_2",
+        "views": 36,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_pancakes",
+        "rating": 5,
+        "likes": 9,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_pancakes_user_taster_1",
+        "views": 59,
+        "createdAt": "2025-10-23T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_pancakes",
+        "rating": 5,
+        "likes": 24,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_pancakes_user_taster_2",
+        "views": 44,
+        "createdAt": "2025-10-22T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_pancakes",
+        "rating": 3,
+        "likes": 8,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_paneer_butter_masala_user_adi",
+        "views": 46,
+        "createdAt": "2025-10-21T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_paneer_butter_masala",
+        "rating": 4,
+        "likes": 14,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_paneer_butter_masala_user_bhakti",
+        "views": 49,
+        "createdAt": "2025-10-21T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_paneer_butter_masala",
+        "rating": 3,
+        "likes": 48,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_paneer_butter_masala_user_chef_1",
+        "views": 100,
+        "createdAt": "2025-10-22T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_paneer_butter_masala",
+        "rating": 5,
+        "likes": 59,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_paneer_butter_masala_user_chef_2",
+        "views": 50,
+        "createdAt": "2025-11-04T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_paneer_butter_masala",
+        "rating": 3,
+        "likes": 6,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_paneer_butter_masala_user_taster_1",
+        "views": 11,
+        "createdAt": "2025-11-17T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_paneer_butter_masala",
+        "rating": 3,
+        "likes": 8,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_paneer_butter_masala_user_taster_2",
+        "views": 77,
+        "createdAt": "2025-10-26T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_paneer_butter_masala",
+        "rating": 3,
+        "likes": 37,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_salad_bowl_user_adi",
+        "views": 20,
+        "createdAt": "2025-10-26T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_salad_bowl",
+        "rating": 3,
+        "likes": 5,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_salad_bowl_user_bhakti",
+        "views": 59,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_salad_bowl",
+        "rating": 3,
+        "likes": 28,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_salad_bowl_user_chef_1",
+        "views": 83,
+        "createdAt": "2025-10-25T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_salad_bowl",
+        "rating": 4,
+        "likes": 26,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_salad_bowl_user_chef_2",
+        "views": 19,
+        "createdAt": "2025-10-22T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_salad_bowl",
+        "rating": 3,
+        "likes": 16,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_salad_bowl_user_taster_1",
+        "views": 52,
+        "createdAt": "2025-10-26T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_salad_bowl",
+        "rating": 5,
+        "likes": 15,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_salad_bowl_user_taster_2",
+        "views": 100,
+        "createdAt": "2025-10-25T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_salad_bowl",
+        "rating": 4,
+        "likes": 99,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_smoothie_user_adi",
+        "views": 73,
+        "createdAt": "2025-11-11T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_smoothie",
+        "rating": 4,
+        "likes": 50,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_smoothie_user_bhakti",
+        "views": 43,
+        "createdAt": "2025-11-14T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_smoothie",
+        "rating": 4,
+        "likes": 32,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_smoothie_user_chef_1",
+        "views": 45,
+        "createdAt": "2025-10-29T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_smoothie",
+        "rating": 3,
+        "likes": 9,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_smoothie_user_chef_2",
+        "views": 45,
+        "createdAt": "2025-10-23T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_smoothie",
+        "rating": 4,
+        "likes": 38,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_smoothie_user_taster_1",
+        "views": 77,
+        "createdAt": "2025-11-09T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_smoothie",
+        "rating": 3,
+        "likes": 17,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_smoothie_user_taster_2",
+        "views": 80,
+        "createdAt": "2025-10-26T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_smoothie",
+        "rating": 3,
+        "likes": 77,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_surmai_fry_user_adi",
+        "views": 29,
+        "createdAt": "2025-11-11T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_surmai_fry",
+        "rating": 4,
+        "likes": 17,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_surmai_fry_user_bhakti",
+        "views": 88,
+        "createdAt": "2025-11-06T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_surmai_fry",
+        "rating": 3,
+        "likes": 48,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_surmai_fry_user_chef_1",
+        "views": 24,
+        "createdAt": "2025-11-07T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_surmai_fry",
+        "rating": 4,
+        "likes": 20,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_surmai_fry_user_chef_2",
+        "views": 84,
+        "createdAt": "2025-10-21T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_surmai_fry",
+        "rating": 3,
+        "likes": 14,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_surmai_fry_user_taster_1",
+        "views": 36,
+        "createdAt": "2025-11-20T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_surmai_fry",
+        "rating": 3,
+        "likes": 19,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_surmai_fry_user_taster_2",
+        "views": 59,
+        "createdAt": "2025-11-14T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_surmai_fry",
+        "rating": 5,
+        "likes": 38,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_tomato_soup_user_adi",
+        "views": 54,
+        "createdAt": "2025-10-28T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_tomato_soup",
+        "rating": 5,
+        "likes": 35,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_tomato_soup_user_bhakti",
+        "views": 93,
+        "createdAt": "2025-11-14T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_tomato_soup",
+        "rating": 5,
+        "likes": 92,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_tomato_soup_user_chef_1",
+        "views": 95,
+        "createdAt": "2025-11-13T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_tomato_soup",
+        "rating": 5,
+        "likes": 43,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_tomato_soup_user_chef_2",
+        "views": 88,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_tomato_soup",
+        "rating": 4,
+        "likes": 77,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_tomato_soup_user_taster_1",
+        "views": 89,
+        "createdAt": "2025-10-28T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_tomato_soup",
+        "rating": 5,
+        "likes": 35,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_tomato_soup_user_taster_2",
+        "views": 82,
+        "createdAt": "2025-10-28T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_tomato_soup",
+        "rating": 3,
+        "likes": 77,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_veg_maggi_user_adi",
+        "views": 11,
+        "createdAt": "2025-11-09T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_maggi",
+        "rating": 5,
+        "likes": 10,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_veg_maggi_user_bhakti",
+        "views": 27,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_maggi",
+        "rating": 5,
+        "likes": 10,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_veg_maggi_user_chef_1",
+        "views": 98,
+        "createdAt": "2025-11-09T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_maggi",
+        "rating": 3,
+        "likes": 54,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_veg_maggi_user_chef_2",
+        "views": 95,
+        "createdAt": "2025-11-07T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_maggi",
+        "rating": 3,
+        "likes": 50,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_veg_maggi_user_taster_1",
+        "views": 11,
+        "createdAt": "2025-10-26T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_maggi",
+        "rating": 3,
+        "likes": 10,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_veg_maggi_user_taster_2",
+        "views": 57,
+        "createdAt": "2025-11-05T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_maggi",
+        "rating": 4,
+        "likes": 47,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_veg_pulao_user_adi",
+        "views": 12,
+        "createdAt": "2025-11-20T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_pulao",
+        "rating": 4,
+        "likes": 7,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_veg_pulao_user_bhakti",
+        "views": 44,
+        "createdAt": "2025-11-19T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_pulao",
+        "rating": 3,
+        "likes": 15,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_veg_pulao_user_chef_1",
+        "views": 54,
+        "createdAt": "2025-11-10T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_pulao",
+        "rating": 5,
+        "likes": 9,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_veg_pulao_user_chef_2",
+        "views": 45,
+        "createdAt": "2025-11-02T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_pulao",
+        "rating": 4,
+        "likes": 18,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_veg_pulao_user_taster_1",
+        "views": 46,
+        "createdAt": "2025-11-08T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_pulao",
+        "rating": 5,
+        "likes": 14,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_veg_pulao_user_taster_2",
+        "views": 94,
+        "createdAt": "2025-11-01T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_pulao",
+        "rating": 5,
+        "likes": 40,
+        "userId": "user_taster_2"
+    },
+    {
+        "interactionId": "recipe_veg_wrap_user_adi",
+        "views": 62,
+        "createdAt": "2025-11-18T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_wrap",
+        "rating": 3,
+        "likes": 36,
+        "userId": "user_adi"
+    },
+    {
+        "interactionId": "recipe_veg_wrap_user_bhakti",
+        "views": 98,
+        "createdAt": "2025-11-15T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_wrap",
+        "rating": 3,
+        "likes": 97,
+        "userId": "user_bhakti"
+    },
+    {
+        "interactionId": "recipe_veg_wrap_user_chef_1",
+        "views": 20,
+        "createdAt": "2025-10-27T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_wrap",
+        "rating": 5,
+        "likes": 7,
+        "userId": "user_chef_1"
+    },
+    {
+        "interactionId": "recipe_veg_wrap_user_chef_2",
+        "views": 58,
+        "createdAt": "2025-11-13T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_wrap",
+        "rating": 5,
+        "likes": 5,
+        "userId": "user_chef_2"
+    },
+    {
+        "interactionId": "recipe_veg_wrap_user_taster_1",
+        "views": 75,
+        "createdAt": "2025-11-11T07:14:37.177518+00:00",
+        "source": "mobile",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_wrap",
+        "rating": 4,
+        "likes": 25,
+        "userId": "user_taster_1"
+    },
+    {
+        "interactionId": "recipe_veg_wrap_user_taster_2",
+        "views": 71,
+        "createdAt": "2025-11-11T07:14:37.177518+00:00",
+        "source": "web",
+        "updatedAt": "2025-11-20T07:14:37.177518+00:00",
+        "recipeId": "recipe_veg_wrap",
+        "rating": 3,
+        "likes": 55,
+        "userId": "user_taster_2"
+    },
+    {
+        "views": 18,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_fried_rice",
+        "interactionId": "t1On65iqGSDIVSXKqLUl",
+        "rating": 3,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 10,
+        "userId": "user_adi",
+        "recipeId": "recipe_surmai_fry",
+        "interactionId": "tgdPnjuJxnYUpJV7uumC",
+        "rating": 3,
+        "likes": 9,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_grilled_sandwich",
+        "interactionId": "uLVu2fuMmacxl1DsLMwr",
+        "rating": 3,
+        "likes": 17,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_veg_wrap",
+        "interactionId": "urdZKj5ITRnVxCQAQuWC",
+        "rating": 5,
+        "likes": 12,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 9,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_surmai_fry",
+        "interactionId": "vGsX7FwlG6ITy2brjQpI",
+        "rating": 3,
+        "likes": 5,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 8,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_veg_maggi",
+        "interactionId": "wITNGCZt1NGDAFfznLSn",
+        "rating": 4,
+        "likes": 1,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 17,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_masala_omelette",
+        "interactionId": "wjPBgTaxo0uWtY0B5zDV",
+        "rating": 3,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 9,
+        "userId": "user_chef_2",
+        "recipeId": "recipe_garlic_bread",
+        "interactionId": "wjlXrva0XTpDwSgTXPwe",
+        "rating": 5,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 10,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_grilled_sandwich",
+        "interactionId": "wtiXXLyXGeVusW1DlGTH",
+        "rating": 4,
+        "likes": 4,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 18,
+        "userId": "user_taster_2",
+        "recipeId": "recipe_grilled_sandwich",
+        "interactionId": "xO9JaeNLgbnCw65PhcEC",
+        "rating": 3,
+        "likes": 17,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 7,
+        "userId": "user_bhakti",
+        "recipeId": "recipe_dal_tadka",
+        "interactionId": "xRVSwydkIsQ2VwJRbdqz",
+        "rating": 3,
+        "likes": 6,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 19,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_paneer_butter_masala",
+        "interactionId": "y5B0IWtEWkxrknyc57EY",
+        "rating": 5,
+        "likes": 7,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 7,
+        "userId": "user_adi",
+        "recipeId": "recipe_veg_wrap",
+        "interactionId": "y5ig2Xqm6KNy5HURQ2qI",
+        "rating": 3,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 12,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_surmai_fry",
+        "interactionId": "yOh6NYyNzy1n8ydKAq8K",
+        "rating": 4,
+        "likes": 12,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 18,
+        "userId": "user_chef_1",
+        "recipeId": "recipe_pancakes",
+        "interactionId": "ylLKrHAjjkmfiOfFpIEH",
+        "rating": 4,
+        "likes": 17,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    },
+    {
+        "views": 8,
+        "userId": "user_taster_1",
+        "recipeId": "recipe_smoothie",
+        "interactionId": "zRtLgsUREq3klD1zLTJ2",
+        "rating": 3,
+        "likes": 3,
+        "createdAt": "2025-11-20T07:19:37.421945+00:00"
+    }
+]

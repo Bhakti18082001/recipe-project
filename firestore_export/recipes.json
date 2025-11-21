@@ -1,0 +1,1032 @@
+[
+    {
+        "title": "Simple Chicken Curry",
+        "createdAt": "2025-11-02T07:14:36.234821+00:00",
+        "category": "Main Course",
+        "updatedAt": "2025-11-16T07:14:36.234821+00:00",
+        "recipeId": "recipe_chicken_curry",
+        "servings": 4,
+        "prepTimeMinutes": 20,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "chicken_curry-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "chicken_curry-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "chicken_curry-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 45,
+        "difficulty": "medium",
+        "description": "A simple Simple Chicken Curry recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Indian",
+        "tags": [
+            "indian",
+            "main course"
+        ],
+        "cookTimeMinutes": 25,
+        "authorId": "user_chef_1",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Chocolate Brownie",
+        "createdAt": "2025-11-14T07:19:37.088205+00:00",
+        "category": "Dessert",
+        "updatedAt": "2025-11-15T07:19:37.088205+00:00",
+        "recipeId": "recipe_choco_brownie",
+        "servings": 4,
+        "prepTimeMinutes": 20,
+        "ingredients": [
+            {
+                "name": "Ingredient 1",
+                "notes": "",
+                "quantity": 1,
+                "ingredientId": "choco_brownie-ING-01",
+                "unit": "unit"
+            },
+            {
+                "name": "Ingredient 2",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "choco_brownie-ING-02",
+                "unit": "unit"
+            }
+        ],
+        "totalTimeMinutes": 50,
+        "difficulty": "medium",
+        "description": "A simple Chocolate Brownie recipe.",
+        "isPublic": true,
+        "cuisine": "American",
+        "tags": [
+            "american",
+            "dessert"
+        ],
+        "cookTimeMinutes": 30,
+        "authorId": "user_chef_2",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Step 1 short instruction.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Step 2 short instruction.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Dal Tadka",
+        "createdAt": "2025-11-06T07:14:36.234821+00:00",
+        "category": "Main Course",
+        "updatedAt": "2025-11-20T07:14:36.234821+00:00",
+        "recipeId": "recipe_dal_tadka",
+        "servings": 3,
+        "prepTimeMinutes": 15,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "dal_tadka-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "dal_tadka-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "dal_tadka-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 35,
+        "difficulty": "easy",
+        "description": "A simple Dal Tadka recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Indian",
+        "tags": [
+            "indian",
+            "main course"
+        ],
+        "cookTimeMinutes": 20,
+        "authorId": "user_chef_1",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Veg Fried Rice",
+        "createdAt": "2025-11-02T07:14:36.234821+00:00",
+        "category": "Main Course",
+        "updatedAt": "2025-11-15T07:14:36.234821+00:00",
+        "recipeId": "recipe_fried_rice",
+        "servings": 2,
+        "prepTimeMinutes": 20,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "fried_rice-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "fried_rice-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "fried_rice-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 35,
+        "difficulty": "medium",
+        "description": "A simple Veg Fried Rice recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Chinese",
+        "tags": [
+            "chinese",
+            "main course"
+        ],
+        "cookTimeMinutes": 15,
+        "authorId": "user_chef_2",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Garlic Bread",
+        "createdAt": "2025-11-08T07:14:36.234821+00:00",
+        "category": "Snack",
+        "updatedAt": "2025-11-18T07:14:36.234821+00:00",
+        "recipeId": "recipe_garlic_bread",
+        "servings": 2,
+        "prepTimeMinutes": 10,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "garlic_bread-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "garlic_bread-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "garlic_bread-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 22,
+        "difficulty": "easy",
+        "description": "A simple Garlic Bread recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Italian",
+        "tags": [
+            "italian",
+            "snack"
+        ],
+        "cookTimeMinutes": 12,
+        "authorId": "user_adi",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Grilled Veg Sandwich",
+        "createdAt": "2025-10-29T07:14:36.234821+00:00",
+        "category": "Snack",
+        "updatedAt": "2025-11-15T07:14:36.234821+00:00",
+        "recipeId": "recipe_grilled_sandwich",
+        "servings": 2,
+        "prepTimeMinutes": 10,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "grilled_sandwich-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "grilled_sandwich-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "grilled_sandwich-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 20,
+        "difficulty": "easy",
+        "description": "A simple Grilled Veg Sandwich recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Global",
+        "tags": [
+            "global",
+            "snack"
+        ],
+        "cookTimeMinutes": 10,
+        "authorId": "user_adi",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Lemon Rice",
+        "createdAt": "2025-11-18T07:14:36.234821+00:00",
+        "category": "Main Course",
+        "updatedAt": "2025-11-15T07:14:36.234821+00:00",
+        "recipeId": "recipe_lemon_rice",
+        "servings": 2,
+        "prepTimeMinutes": 10,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "lemon_rice-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "lemon_rice-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "lemon_rice-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 20,
+        "difficulty": "easy",
+        "description": "A simple Lemon Rice recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Indian",
+        "tags": [
+            "indian",
+            "main course"
+        ],
+        "cookTimeMinutes": 10,
+        "authorId": "user_taster_1",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Masala Omelette",
+        "createdAt": "2025-11-08T07:19:37.088205+00:00",
+        "category": "Breakfast",
+        "updatedAt": "2025-11-19T07:19:37.088205+00:00",
+        "recipeId": "recipe_masala_omelette",
+        "servings": 1,
+        "prepTimeMinutes": 10,
+        "ingredients": [
+            {
+                "name": "Ingredient 1",
+                "notes": "",
+                "quantity": 1,
+                "ingredientId": "masala_omelette-ING-01",
+                "unit": "unit"
+            },
+            {
+                "name": "Ingredient 2",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "masala_omelette-ING-02",
+                "unit": "unit"
+            }
+        ],
+        "totalTimeMinutes": 15,
+        "difficulty": "easy",
+        "description": "A simple Masala Omelette recipe.",
+        "isPublic": true,
+        "cuisine": "Indian",
+        "tags": [
+            "indian",
+            "breakfast"
+        ],
+        "cookTimeMinutes": 5,
+        "authorId": "user_chef_2",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Step 1 short instruction.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Step 2 short instruction.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Soft Pancakes",
+        "createdAt": "2025-10-28T07:14:36.234821+00:00",
+        "category": "Breakfast",
+        "updatedAt": "2025-11-15T07:14:36.234821+00:00",
+        "recipeId": "recipe_pancakes",
+        "servings": 2,
+        "prepTimeMinutes": 10,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "pancakes-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "pancakes-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "pancakes-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 20,
+        "difficulty": "easy",
+        "description": "A simple Soft Pancakes recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "American",
+        "tags": [
+            "american",
+            "breakfast"
+        ],
+        "cookTimeMinutes": 10,
+        "authorId": "user_taster_2",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Paneer Butter Masala",
+        "createdAt": "2025-10-23T07:19:37.088205+00:00",
+        "category": "Main Course",
+        "updatedAt": "2025-11-16T07:19:37.088205+00:00",
+        "recipeId": "recipe_paneer_butter_masala",
+        "servings": 3,
+        "prepTimeMinutes": 20,
+        "ingredients": [
+            {
+                "name": "Ingredient 1",
+                "notes": "",
+                "quantity": 1,
+                "ingredientId": "paneer_butter_masala-ING-01",
+                "unit": "unit"
+            },
+            {
+                "name": "Ingredient 2",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "paneer_butter_masala-ING-02",
+                "unit": "unit"
+            }
+        ],
+        "totalTimeMinutes": 45,
+        "difficulty": "medium",
+        "description": "A simple Paneer Butter Masala recipe.",
+        "isPublic": true,
+        "cuisine": "Indian",
+        "tags": [
+            "indian",
+            "main course"
+        ],
+        "cookTimeMinutes": 25,
+        "authorId": "user_chef_1",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Step 1 short instruction.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Step 2 short instruction.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Rainbow Salad Bowl",
+        "createdAt": "2025-11-07T07:14:36.234821+00:00",
+        "category": "Salad",
+        "updatedAt": "2025-11-20T07:14:36.234821+00:00",
+        "recipeId": "recipe_salad_bowl",
+        "servings": 2,
+        "prepTimeMinutes": 15,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "salad_bowl-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "salad_bowl-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "salad_bowl-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 15,
+        "difficulty": "easy",
+        "description": "A simple Rainbow Salad Bowl recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Global",
+        "tags": [
+            "global",
+            "salad"
+        ],
+        "cookTimeMinutes": 0,
+        "authorId": "user_taster_1",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Berry Banana Smoothie",
+        "createdAt": "2025-11-15T07:14:36.234821+00:00",
+        "category": "Beverage",
+        "updatedAt": "2025-11-17T07:14:36.234821+00:00",
+        "recipeId": "recipe_smoothie",
+        "servings": 1,
+        "prepTimeMinutes": 5,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "smoothie-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "smoothie-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "smoothie-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 5,
+        "difficulty": "easy",
+        "description": "A simple Berry Banana Smoothie recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Global",
+        "tags": [
+            "global",
+            "beverage"
+        ],
+        "cookTimeMinutes": 0,
+        "authorId": "user_taster_2",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Surmai Fry",
+        "createdAt": "2025-11-19T07:19:37.088205+00:00",
+        "category": "Seafood",
+        "updatedAt": "2025-11-20T07:19:37.088205+00:00",
+        "recipeId": "recipe_surmai_fry",
+        "servings": 4,
+        "prepTimeMinutes": 15,
+        "ingredients": [
+            {
+                "name": "Surmai steaks",
+                "notes": "cleaned and pat dry",
+                "quantity": 1000,
+                "ingredientId": "SF-ING-01",
+                "unit": "grams"
+            },
+            {
+                "name": "Ginger-garlic paste",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "SF-ING-02",
+                "unit": "tbsp"
+            },
+            {
+                "name": "Turmeric powder",
+                "notes": "",
+                "quantity": 1,
+                "ingredientId": "SF-ING-03",
+                "unit": "tsp"
+            },
+            {
+                "name": "Red chili powder",
+                "notes": "",
+                "quantity": 1,
+                "ingredientId": "SF-ING-04",
+                "unit": "tsp"
+            },
+            {
+                "name": "Garam masala",
+                "notes": "",
+                "quantity": 1,
+                "ingredientId": "SF-ING-05",
+                "unit": "tsp"
+            },
+            {
+                "name": "Lemon juice",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "SF-ING-06",
+                "unit": "tbsp"
+            },
+            {
+                "name": "Salt",
+                "notes": "",
+                "quantity": 1,
+                "ingredientId": "SF-ING-07",
+                "unit": "tsp"
+            },
+            {
+                "name": "Oil",
+                "notes": "for shallow frying",
+                "quantity": 4,
+                "ingredientId": "SF-ING-08",
+                "unit": "tbsp"
+            },
+            {
+                "name": "Fresh coriander",
+                "notes": "for garnish",
+                "quantity": 2,
+                "ingredientId": "SF-ING-09",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 35,
+        "difficulty": "medium",
+        "description": "Delicious Surmai Fry with aromatic spices and herbs, crispy outside and juicy inside.",
+        "isPublic": true,
+        "cuisine": "Indian",
+        "tags": [
+            "seafood",
+            "fry",
+            "Indian"
+        ],
+        "cookTimeMinutes": 20,
+        "authorId": "user_bhakti",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Clean and pat dry the fish steaks.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Marinate fish with ginger-garlic paste, turmeric, chili powder, garam masala, lemon juice, and salt.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Let marinate for 30 min in refrigerator.",
+                "approxMinutes": 30
+            },
+            {
+                "stepNumber": 4,
+                "instruction": "Heat oil in a pan over medium flame.",
+                "approxMinutes": 3
+            },
+            {
+                "stepNumber": 5,
+                "instruction": "Shallow fry fish until golden brown and cooked through, ~8-10 min per side.",
+                "approxMinutes": 15
+            },
+            {
+                "stepNumber": 6,
+                "instruction": "Garnish with coriander and serve hot.",
+                "approxMinutes": 2
+            }
+        ]
+    },
+    {
+        "title": "Tomato Soup",
+        "createdAt": "2025-11-07T07:14:36.234821+00:00",
+        "category": "Starter",
+        "updatedAt": "2025-11-17T07:14:36.234821+00:00",
+        "recipeId": "recipe_tomato_soup",
+        "servings": 2,
+        "prepTimeMinutes": 10,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "tomato_soup-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "tomato_soup-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "tomato_soup-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 25,
+        "difficulty": "easy",
+        "description": "A simple Tomato Soup recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Global",
+        "tags": [
+            "global",
+            "starter"
+        ],
+        "cookTimeMinutes": 15,
+        "authorId": "user_chef_1",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Masala Veg Maggi",
+        "createdAt": "2025-10-31T07:14:36.234821+00:00",
+        "category": "Snack",
+        "updatedAt": "2025-11-16T07:14:36.234821+00:00",
+        "recipeId": "recipe_veg_maggi",
+        "servings": 1,
+        "prepTimeMinutes": 5,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "veg_maggi-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "veg_maggi-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "veg_maggi-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 12,
+        "difficulty": "easy",
+        "description": "A simple Masala Veg Maggi recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Indian",
+        "tags": [
+            "indian",
+            "snack"
+        ],
+        "cookTimeMinutes": 7,
+        "authorId": "user_adi",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Veg Pulao",
+        "createdAt": "2025-11-09T07:19:37.088205+00:00",
+        "category": "Main Course",
+        "updatedAt": "2025-11-18T07:19:37.088205+00:00",
+        "recipeId": "recipe_veg_pulao",
+        "servings": 2,
+        "prepTimeMinutes": 15,
+        "ingredients": [
+            {
+                "name": "Ingredient 1",
+                "notes": "",
+                "quantity": 1,
+                "ingredientId": "veg_pulao-ING-01",
+                "unit": "unit"
+            },
+            {
+                "name": "Ingredient 2",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "veg_pulao-ING-02",
+                "unit": "unit"
+            }
+        ],
+        "totalTimeMinutes": 35,
+        "difficulty": "easy",
+        "description": "A simple Veg Pulao recipe.",
+        "isPublic": true,
+        "cuisine": "Indian",
+        "tags": [
+            "indian",
+            "main course"
+        ],
+        "cookTimeMinutes": 20,
+        "authorId": "user_chef_1",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Step 1 short instruction.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Step 2 short instruction.",
+                "approxMinutes": 5
+            }
+        ]
+    },
+    {
+        "title": "Veg Wrap",
+        "createdAt": "2025-11-13T07:14:36.234821+00:00",
+        "category": "Snack",
+        "updatedAt": "2025-11-15T07:14:36.234821+00:00",
+        "recipeId": "recipe_veg_wrap",
+        "servings": 1,
+        "prepTimeMinutes": 15,
+        "ingredients": [
+            {
+                "name": "Onion",
+                "notes": "finely chopped",
+                "quantity": 1,
+                "ingredientId": "veg_wrap-ING-01",
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato",
+                "notes": "pureed",
+                "quantity": 2,
+                "ingredientId": "veg_wrap-ING-02",
+                "unit": "piece"
+            },
+            {
+                "name": "Oil",
+                "notes": "",
+                "quantity": 2,
+                "ingredientId": "veg_wrap-ING-03",
+                "unit": "tbsp"
+            }
+        ],
+        "totalTimeMinutes": 25,
+        "difficulty": "medium",
+        "description": "A simple Veg Wrap recipe for everyday cooking.",
+        "isPublic": true,
+        "cuisine": "Global",
+        "tags": [
+            "global",
+            "snack"
+        ],
+        "cookTimeMinutes": 10,
+        "authorId": "user_chef_2",
+        "steps": [
+            {
+                "stepNumber": 1,
+                "instruction": "Heat oil and sauté onions until golden.",
+                "approxMinutes": 5
+            },
+            {
+                "stepNumber": 2,
+                "instruction": "Add tomatoes and cook until soft.",
+                "approxMinutes": 7
+            },
+            {
+                "stepNumber": 3,
+                "instruction": "Add spices and cook for 5 minutes.",
+                "approxMinutes": 5
+            }
+        ]
+    }
+]
