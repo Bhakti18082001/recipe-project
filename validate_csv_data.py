@@ -6,7 +6,7 @@ import os
 # -------------------------------------------------------------------
 # CONFIG
 # -------------------------------------------------------------------
-DATA_DIR = "data"  # your CSV folder
+DATA_DIR = "normalized_csv_output"  # your CSV folder
 OUTPUT_FILE = "validation_report.json"
 
 # -------------------------------------------------------------------
