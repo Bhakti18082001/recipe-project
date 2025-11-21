@@ -93,9 +93,7 @@ Export charts (PNG) for reporting.
 
 Identifies which recipe has the highest views.
 
-📊 Category Distribution
-
-Shows popularity of categories (veg, non-veg, dessert, etc.).
+**Shows popularity of categories (veg, non-veg, dessert, etc.).**
 
 📈 Recipe Growth Trend
 
