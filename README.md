@@ -37,6 +37,17 @@ Stores aggregated insights.
 | `generatedAt` | timestamp | ETL run timestamp |
 
 ---
+**Folder Structure**
+recipe-project/
+│── analytics.py
+│── seed_firestore.py
+│── validate_csv_data.py
+│── data/
+│── analytics_charts/
+│── charts/
+│── firestore_export/
+│── README.md
+│── .gitignore
 
 ## **2. Instructions for Running the Pipeline**
 
@@ -95,8 +106,8 @@ Save results into the analytics collection.
 
 Export charts (PNG) for reporting.
 
-Project Title: Recipe Analytics Pipeline
-Project Overview:
+**Project Title**: Recipe Analytics Pipeline
+**Project Overview:**
 
 This project is designed to collect, process, analyze, and visualize recipe data from user interactions and recipe details. The aim is to provide insights into recipe popularity, user engagement, and ingredient usage to help improve recipe content, optimize user experience, and support data-driven decisions.
 
@@ -156,15 +167,18 @@ Ingredient popularity and engagement
 
 Most interacted recipes
 
-Deliverables:
+**Deliverables:**
 
-Source code: Python scripts (main_file.py, analytics.py, validate_csv_data.py)
+Source code: Python scripts (main_file.py, analytics.py, validate_csv_data.py) 
+[View main_file.py](main_file.py)
+[View analytics.py](analytics.py)
 
 Normalized CSV outputs (recipe.csv, ingredients.csv, interactions.csv, steps.csv)
 
 Analytics charts (PNG/HTML)
 
 Validation report (validation_report.json)
+
 
 **ER and architecture diagrams**
 
@@ -180,7 +194,7 @@ Visualization: PNG & interactive HTML charts
 
 Version Control: Git & GitHub
 
-## Main Highlights:##
+ ## Main Highlights:##
 
 **Data-Driven Insights:**
 
@@ -206,15 +220,11 @@ Ingredients linked to high engagement are identified for recipe optimization.
 
 Charts provide a clear view of recipe popularity, ingredient usage, and engagement metrics.
 
-Scalable Pipeline:
+**Scalable Pipeline:**
 
 ETL can handle new recipes and interactions automatically, making the pipeline reusable.
 
-Documentation:
-
-Detailed README and LaTeX report provide a clear summary of all analyses and results.
-
-Business Value:
+**Business Value:**
 
 Improves recipe recommendation for users.
 
@@ -224,19 +234,7 @@ Supports data-driven decisions for content updates and marketing strategies.
 
 Enables performance tracking and trend analysis for recipes over time.
 
-**Folder Structure**
-recipe-project/
-│── analytics.py
-│── seed_firestore.py
-│── validate_csv_data.py
-│── data/
-│── analytics_charts/
-│── charts/
-│── firestore_export/
-│── README.md
-│── .gitignore
-
-Project Evaluation Summary
+**Project Evaluation Summary**
 Data Modeling Evaluation
 
 ***VISUALIZATION***
@@ -301,5 +299,6 @@ Demonstrates strong ETL design, clear documentation, meaningful insights, and go
 
 Bhakti Dighe
 Recipe Analytics Project — Firebase + Python
+
 
 
