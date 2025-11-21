@@ -95,46 +95,136 @@ Save results into the analytics collection.
 
 Export charts (PNG) for reporting.
 
-3. Insights Summary
+Project Title: Recipe Analytics Pipeline
+Project Overview:
 
-⭐ **Most Viewed Recipe – Identifies which recipe has the highest views.**
+This project is designed to collect, process, analyze, and visualize recipe data from user interactions and recipe details. The aim is to provide insights into recipe popularity, user engagement, and ingredient usage to help improve recipe content, optimize user experience, and support data-driven decisions.
 
-Category Popularity – Shows popularity of categories (veg, non-veg, dessert, etc.).
+**Key Objectives:**
 
-📈 Recipe Growth Trend – Tracks total number of recipes over time.
+**Data Collection:**
 
-🖼️ Visual Chart Output – Bar charts and analytics files stored under analytics_charts/.
+Extract recipe and user interaction data from Firestore (recipes, likes, views, interactions).
 
-4. Known Constraints & Limitations
+Normalize data into structured CSV files for analytics.
 
-🔒 No Authentication Layer – Anyone with the service key can update Firestore.
+**ETL (Extract, Transform, Load) Pipeline:**
 
-🖐 Manual ETL Execution – Must manually run:
+Extraction: Fetch data from Firestore collections (recipes, interactions).
 
-python analytics.py
+Transformation:
 
+Flatten nested ingredients and steps.
 
-📁 Local Dependency on serviceAccountKey.json – Must stay local and protected via .gitignore.
+Calculate derived metrics like engagement (likes + ratings).
 
-⚡ Performance Limit – ETL reads the entire collection every run; not optimized for very large datasets.
+Clean missing values and standardize data types.
 
-📉 Basic Visualizations Only – Limited graphs currently generated.
+Load: Store cleaned and normalized data in CSV files for analysis (ingredients.csv, interactions.csv, recipe.csv, steps.csv).
 
-❗ Limited Error Handling – Missing fields or Firestore issues can interrupt ETL.
+**Data Validation:**
 
-5. Future Enhancements
+Validate CSV files for missing values, duplicates, and inconsistent data.
 
-Automate ETL using Cloud Scheduler.
+Generate validation report in JSON format.
 
-Build a Streamlit/Flask analytics dashboard.
+**Analytics and Insights:**
 
-Add Firestore Security Rules & Authentication.
+Identify top recipes by views, likes, average ratings, and like/view ratio.
 
-Add advanced charts.
+Determine recipe difficulty distribution (easy vs medium).
 
-Optimize performance for large datasets.
+Measure average preparation time.
 
-6. Folder Structure
+**Calculate correlation between preparation time and likes.**
+
+Find top ingredients and those associated with high engagement.
+
+Highlight recipes with most user interactions.
+
+**Visualization:**
+
+Generate charts to make insights easily understandable:
+
+Top recipes (views, likes, ratings)
+
+Difficulty distribution
+
+Prep time vs likes correlation
+
+Ingredient popularity and engagement
+
+Most interacted recipes
+
+Deliverables:
+
+Source code: Python scripts (main_file.py, analytics.py, validate_csv_data.py)
+
+Normalized CSV outputs (recipe.csv, ingredients.csv, interactions.csv, steps.csv)
+
+Analytics charts (PNG/HTML)
+
+Validation report (validation_report.json)
+
+**ER and architecture diagrams**
+
+**Technical Stack:**
+
+Python Libraries: pandas, matplotlib, seaborn, plotly, collections
+
+Data Storage: Firebase Firestore
+
+Data Format: CSV (normalized tables)
+
+Visualization: PNG & interactive HTML charts
+
+Version Control: Git & GitHub
+
+## Main Highlights:##
+
+**Data-Driven Insights:**
+
+Identifies popular and highly engaging recipes.
+
+Helps content creators understand user preferences and engagement trends.
+
+**Normalized Data Structure:**
+
+Ingredients, recipes, interactions, and steps are separated into tables.
+
+Enables easier analytics, aggregation, and visualization.
+
+**Correlation Analysis:**
+
+Checks relationship between prep time and likes to optimize recipe creation.
+
+**Engagement Analytics:**
+
+Ingredients linked to high engagement are identified for recipe optimization.
+
+**Comprehensive Visualization:**
+
+Charts provide a clear view of recipe popularity, ingredient usage, and engagement metrics.
+
+Scalable Pipeline:
+
+ETL can handle new recipes and interactions automatically, making the pipeline reusable.
+
+Documentation:
+
+Detailed README and LaTeX report provide a clear summary of all analyses and results.
+
+Business Value:
+
+Improves recipe recommendation for users.
+
+Helps recipe developers focus on popular ingredients and efficient recipes.
+
+Supports data-driven decisions for content updates and marketing strategies.
+
+Enables performance tracking and trend analysis for recipes over time.
+
+**Folder Structure**
 recipe-project/
 │── analytics.py
 │── seed_firestore.py
@@ -146,7 +236,7 @@ recipe-project/
 │── README.md
 │── .gitignore
 
-7. Project Evaluation Summary
+Project Evaluation Summary
 Data Modeling Evaluation
 
 ***VISUALIZATION***
@@ -243,3 +333,4 @@ Demonstrates strong ETL design, clear documentation, meaningful insights, and go
 
 Bhakti Dighe
 Recipe Analytics Project — Firebase + Python
+
