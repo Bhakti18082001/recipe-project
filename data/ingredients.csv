@@ -1,0 +1,54 @@
+recipeId,ingredientId,name,quantity,unit,notes
+recipe_chicken_curry,chicken_curry-ING-01,Onion,1,piece,finely chopped
+recipe_chicken_curry,chicken_curry-ING-02,Tomato,2,piece,pureed
+recipe_chicken_curry,chicken_curry-ING-03,Oil,2,tbsp,
+recipe_choco_brownie,choco_brownie-ING-01,Ingredient 1,1,unit,
+recipe_choco_brownie,choco_brownie-ING-02,Ingredient 2,2,unit,
+recipe_dal_tadka,dal_tadka-ING-01,Onion,1,piece,finely chopped
+recipe_dal_tadka,dal_tadka-ING-02,Tomato,2,piece,pureed
+recipe_dal_tadka,dal_tadka-ING-03,Oil,2,tbsp,
+recipe_fried_rice,fried_rice-ING-01,Onion,1,piece,finely chopped
+recipe_fried_rice,fried_rice-ING-02,Tomato,2,piece,pureed
+recipe_fried_rice,fried_rice-ING-03,Oil,2,tbsp,
+recipe_garlic_bread,garlic_bread-ING-01,Onion,1,piece,finely chopped
+recipe_garlic_bread,garlic_bread-ING-02,Tomato,2,piece,pureed
+recipe_garlic_bread,garlic_bread-ING-03,Oil,2,tbsp,
+recipe_grilled_sandwich,grilled_sandwich-ING-01,Onion,1,piece,finely chopped
+recipe_grilled_sandwich,grilled_sandwich-ING-02,Tomato,2,piece,pureed
+recipe_grilled_sandwich,grilled_sandwich-ING-03,Oil,2,tbsp,
+recipe_lemon_rice,lemon_rice-ING-01,Onion,1,piece,finely chopped
+recipe_lemon_rice,lemon_rice-ING-02,Tomato,2,piece,pureed
+recipe_lemon_rice,lemon_rice-ING-03,Oil,2,tbsp,
+recipe_masala_omelette,masala_omelette-ING-01,Ingredient 1,1,unit,
+recipe_masala_omelette,masala_omelette-ING-02,Ingredient 2,2,unit,
+recipe_pancakes,pancakes-ING-01,Onion,1,piece,finely chopped
+recipe_pancakes,pancakes-ING-02,Tomato,2,piece,pureed
+recipe_pancakes,pancakes-ING-03,Oil,2,tbsp,
+recipe_paneer_butter_masala,paneer_butter_masala-ING-01,Ingredient 1,1,unit,
+recipe_paneer_butter_masala,paneer_butter_masala-ING-02,Ingredient 2,2,unit,
+recipe_salad_bowl,salad_bowl-ING-01,Onion,1,piece,finely chopped
+recipe_salad_bowl,salad_bowl-ING-02,Tomato,2,piece,pureed
+recipe_salad_bowl,salad_bowl-ING-03,Oil,2,tbsp,
+recipe_smoothie,smoothie-ING-01,Onion,1,piece,finely chopped
+recipe_smoothie,smoothie-ING-02,Tomato,2,piece,pureed
+recipe_smoothie,smoothie-ING-03,Oil,2,tbsp,
+recipe_surmai_fry,SF-ING-01,Surmai steaks,1000,grams,cleaned and pat dry
+recipe_surmai_fry,SF-ING-02,Ginger-garlic paste,2,tbsp,
+recipe_surmai_fry,SF-ING-03,Turmeric powder,1,tsp,
+recipe_surmai_fry,SF-ING-04,Red chili powder,1,tsp,
+recipe_surmai_fry,SF-ING-05,Garam masala,1,tsp,
+recipe_surmai_fry,SF-ING-06,Lemon juice,2,tbsp,
+recipe_surmai_fry,SF-ING-07,Salt,1,tsp,
+recipe_surmai_fry,SF-ING-08,Oil,4,tbsp,for shallow frying
+recipe_surmai_fry,SF-ING-09,Fresh coriander,2,tbsp,for garnish
+recipe_tomato_soup,tomato_soup-ING-01,Onion,1,piece,finely chopped
+recipe_tomato_soup,tomato_soup-ING-02,Tomato,2,piece,pureed
+recipe_tomato_soup,tomato_soup-ING-03,Oil,2,tbsp,
+recipe_veg_maggi,veg_maggi-ING-01,Onion,1,piece,finely chopped
+recipe_veg_maggi,veg_maggi-ING-02,Tomato,2,piece,pureed
+recipe_veg_maggi,veg_maggi-ING-03,Oil,2,tbsp,
+recipe_veg_pulao,veg_pulao-ING-01,Ingredient 1,1,unit,
+recipe_veg_pulao,veg_pulao-ING-02,Ingredient 2,2,unit,
+recipe_veg_wrap,veg_wrap-ING-01,Onion,1,piece,finely chopped
+recipe_veg_wrap,veg_wrap-ING-02,Tomato,2,piece,pureed
+recipe_veg_wrap,veg_wrap-ING-03,Oil,2,tbsp,
