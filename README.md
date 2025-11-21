@@ -153,32 +153,26 @@ Data Modeling Evaluation
 1. **Most common ingredients**
    
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/f12426c7-b07b-4314-a059-b09e48d12b9c" />
-C:\Users\Home\Desktop\Bhakti Dighe\recipe-project\analytics_charts\top_ingredients.png
 
 2. **Average preparation time**
 
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/9470e57a-0f69-4629-9415-78788b064f98" />
-C:\Users\Home\Desktop\Bhakti Dighe\recipe-project\analytics_charts\longest_recipes.png
 
 3. **Difficulty distribution**
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e1fa7e81-c719-4f61-b77a-cc9605160c0a" />
-C:\Users\Home\Desktop\Bhakti Dighe\recipe-project\analytics_charts\difficulty_distribution.png
 
 4. **Correlation between prep time and likes**
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3545db13-ba34-4c80-98e2-edf74d7f134d" />
-C:\Users\Home\Desktop\Bhakti Dighe\recipe-project\analytics_charts\prep_vs_likes.png
 
 5. **Most frequently viewed recipes**
 
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/3294876f-2fda-458a-96df-6bc29cb03c87" />
-C:\Users\Home\Desktop\Bhakti Dighe\recipe-project\charts\most_interacted_recipes.png
 
 6. **Ingredients associated with high engagement**
 
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/c28f8506-f00b-4233-a302-7a35243ac8dc" />
-C:\Users\Home\Desktop\Bhakti Dighe\recipe-project\charts\top_ingredients.png
 
 **Normalized structure with entities for:**
 
@@ -234,12 +228,10 @@ Verdict: ✔ Insightful, relevant, and well-presented.
 
 ***ER- DIAGRAM***
 <img width="2270" height="1787" alt="image" src="https://github.com/user-attachments/assets/ee7a49e0-3210-4d4b-b7c3-9a87e43aff2a" />
-C:\Users\Home\Desktop\Bhakti Dighe\recipe-project\Diagrams\Er-Diagram.png
 
 ***ARCHITECTURE DIAGRAM(WORKFLOW-PIPELINE)***
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/187a09f2-5965-4f51-932d-7d1d9c17ec31" />
-C:\Users\Home\Desktop\Bhakti Dighe\recipe-project\Diagrams\architecture_diagram.png
 
  **Final Evaluation Score**
 
